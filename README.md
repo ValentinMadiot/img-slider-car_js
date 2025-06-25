@@ -15,42 +15,43 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Slider immersif de voitures de sport réalisé en HTML, CSS et JavaScript avec Swiper.js et GSAP.  
-Animations d'entrée dynamiques, navigation fluide, design responsive et structure modulaire.
+Ce projet présente un slider immersif dédié aux voitures de sport, construit avec HTML, CSS et JavaScript, intégrant Swiper.js pour le carrousel et GSAP pour les animations d’entrée.
 
-Parfait pour des landing pages, sites événementiels ou projets créatifs autour de l’automobile et de la vitesse.
+L’expérience visuelle est fluide, animée et responsive, idéale pour une landing page, un site événementiel, ou tout projet mettant en avant la vitesse, le design ou l’automobile.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
+- HTML5 structuré et sémantique
 - CSS3 moderne avec variables, media queries et animations
-- JavaScript ES6
-- [Swiper.js](https://swiperjs.com/) pour le carrousel
-- [GSAP](https://gsap.com/) pour les animations d'entrée
-- Remix Icons
+- JavaScript ES6 clair et modulaire
+- [Swiper.js](https://swiperjs.com/) pour un carrousel fluide & personnalisable
+- [GSAP](https://gsap.com/) pour les animations d’entrée synchronisées
+- Remix Icons pour les pictogrammes
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
-- Slider full-screen avec transitions en fondu
-- Titre animé + image avec GSAP
+- Slider en plein écran avec transitions douces entre slides
+- Animations GSAP pour l'apparition dynamique des titres et visuels
 - Navigation fluide par pagination personnalisée
-- Menu responsive avec animation d’ouverture/fermeture
-- Interface entièrement responsive
+- Menu responsive avec animation d’ouverture & fermeture
 - Design visuel fort basé sur des blocs colorés dynamiques
+- Structure modulaire qui est facile à intégrer ou adapter
 
 ## <br /> <a name="installation">🚀 Installation</a>
 
 ### ✅ Prérequis
 
-- Un navigateur moderne (Chrome conseillé)
-- Un éditeur de code (VS Code)
+- [Google Chrome](https://www.google.com/) &nbsp;—&nbsp; Navigateur moderne
+- [Visual Studio Code](https://code.visualstudio.com/) &nbsp;—&nbsp; Éditeur de code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) &nbsp;—&nbsp; Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/img-slider-car_js.git
+git clone https://github.com/ValentinMadiot/img-slider-car_js
+cd img-slider-car_js
 ```
 
-### ▶️ Lancer localement
+### ▶️ Lancer le projet
 
-Il suffit d’ouvrir le fichier index.html dans un navigateur, ou d’utiliser l’extension Live Server sur VS Code.
+Il suffit d’ouvrir le fichier `index.html` dans un navigateur, ou d’utiliser l’extension **Live Server** sur VS Code pour un aperçu dynamique.
