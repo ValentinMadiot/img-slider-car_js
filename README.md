@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du slider de voitures animé">  
   </a>  
   </br></br>  
-  <h3 align="center">🏎️ Image Slider de Voitures</h3>  
+  <h3 align="center">🏎️ Diaporama d’images de Voitures</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
