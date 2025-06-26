@@ -1,9 +1,9 @@
 <div align="center">  
   <a href="https://image-slider-car.netlify.app/" target="_blank">  
-    <img src=".docs/preview.png" alt="Aperçu du slider de voitures animé">  
+    <img src=".docs/preview.png" alt="Aperçu du carrousel de voitures animé">  
   </a>  
   </br></br>  
-  <h3 align="center">🏎️ Diaporama d’images de Voitures</h3>  
+  <h3 align="center">🏎️ Carrousel d’images de Voitures</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,7 +15,7 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Ce projet présente un slider immersif dédié aux voitures de sport, construit avec HTML, CSS et JavaScript, intégrant Swiper.js pour le carrousel et GSAP pour les animations d’entrée.
+Ce projet présente un carrousel immersif dédié aux voitures de sport, construit avec HTML, CSS et JavaScript, intégrant Swiper.js pour le carrousel et GSAP pour les animations d’entrée.
 
 L’expérience visuelle est fluide, animée et responsive, idéale pour une landing page, un site événementiel, ou tout projet mettant en avant la vitesse, le design ou l’automobile.
 
@@ -30,7 +30,7 @@ L’expérience visuelle est fluide, animée et responsive, idéale pour une lan
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
-- Slider en plein écran avec transitions douces entre slides
+- Carrousel en plein écran avec transitions douces entre slides
 - Animations GSAP pour l'apparition dynamique des titres et visuels
 - Navigation fluide par pagination personnalisée
 - Menu responsive avec animation d’ouverture & fermeture
