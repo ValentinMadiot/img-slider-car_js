@@ -21,19 +21,19 @@ L’expérience visuelle est fluide, animée et responsive, idéale pour une lan
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 structuré et sémantique
+- HTML5 sémantique et accessible
 - CSS3 moderne avec variables, media queries et animations
 - JavaScript ES6 clair et modulaire
-- [Swiper.js](https://swiperjs.com/) pour un carrousel fluide & personnalisable
+- [Swiper.js](https://swiperjs.com/) pour un carrousel fluide et personnalisable
 - [GSAP](https://gsap.com/) pour les animations d’entrée synchronisées
-- Remix Icons pour les pictogrammes
+- Remix Icons pour des icônes vectorielles modernes
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
 - Carrousel en plein écran avec transitions douces entre slides
 - Animations GSAP pour l'apparition dynamique des titres et visuels
 - Navigation fluide par pagination personnalisée
-- Menu responsive avec animation d’ouverture & fermeture
+- Menu responsive avec animation d’ouverture et fermeture
 - Design visuel fort basé sur des blocs colorés dynamiques
 - Structure modulaire qui est facile à intégrer ou adapter
 
